@@ -1,0 +1,150 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950 (ID=0x1402)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+- Completed reload, in  0.088 seconds
+Platform assembly: C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Quasar\Documents\GitHub\Unfinished-Platformer\Executable\Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x1200 60Hz; virtual: 1600x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.620632 ms
+Trying to load data from an older version of the A* Pathfinding Project
+Current version: 3.8.8.1 Data version: 3.8.7
+This is usually fine, it just means you have upgraded to a new version.
+However node data (not settings) can get corrupted between versions (even though I try my best to keep compatibility), so it is recommended to recalculate any caches (those for faster startup) and resave any files. Even if it seems to load fine, it might cause subtle bugs.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+no_name: The womb split open.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+no_name: Out of it sprang you...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+no_name: Your face was blank- expressionless like a robot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+no_name: Press A or D to move.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+no_name: Press Space to jump.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Level2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Level2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.024536 ms
+Trying to load data from an older version of the A* Pathfinding Project
+Current version: 3.8.8.1 Data version: 3.8.6
+This is usually fine, it just means you have upgraded to a new version.
+However node data (not settings) can get corrupted between versions (even though I try my best to keep compatibility), so it is recommended to recalculate any caches (those for faster startup) and resave any files. Even if it seems to load fine, it might cause subtle bugs.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 602.
+Total: 1.746752 ms (FindLiveObjects: 0.037526 ms CreateObjectMapping: 0.023414 ms MarkObjects: 1.587023 ms  DeleteObjects: 0.098467 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.083850 ms
+Trying to load data from an older version of the A* Pathfinding Project
+Current version: 3.8.8.1 Data version: 3.8.6
+This is usually fine, it just means you have upgraded to a new version.
+However node data (not settings) can get corrupted between versions (even though I try my best to keep compatibility), so it is recommended to recalculate any caches (those for faster startup) and resave any files. Even if it seems to load fine, it might cause subtle bugs.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 602.
+Total: 1.597928 ms (FindLiveObjects: 0.035281 ms CreateObjectMapping: 0.016678 ms MarkObjects: 1.541799 ms  DeleteObjects: 0.003528 ms)
+
+Level1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Level1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.346147 ms
+Trying to load data from an older version of the A* Pathfinding Project
+Current version: 3.8.8.1 Data version: 3.8.7
+This is usually fine, it just means you have upgraded to a new version.
+However node data (not settings) can get corrupted between versions (even though I try my best to keep compatibility), so it is recommended to recalculate any caches (those for faster startup) and resave any files. Even if it seems to load fine, it might cause subtle bugs.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 867.
+Total: 2.764461 ms (FindLiveObjects: 0.050356 ms CreateObjectMapping: 0.024697 ms MarkObjects: 2.684918 ms  DeleteObjects: 0.004169 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.063323 ms
+Trying to load data from an older version of the A* Pathfinding Project
+Current version: 3.8.8.1 Data version: 3.8.7
+This is usually fine, it just means you have upgraded to a new version.
+However node data (not settings) can get corrupted between versions (even though I try my best to keep compatibility), so it is recommended to recalculate any caches (those for faster startup) and resave any files. Even if it seems to load fine, it might cause subtle bugs.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 867.
+Total: 2.758046 ms (FindLiveObjects: 0.056771 ms CreateObjectMapping: 0.023093 ms MarkObjects: 2.673692 ms  DeleteObjects: 0.004169 ms)
+
+no_name: The womb split open.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+no_name: Out of it sprang you...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+no_name: Your face was blank- expressionless like a robot.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+no_name: Press A or D to move.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+no_name: Press Space to jump.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3384 -> priority: 1 
